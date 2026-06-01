@@ -15,3 +15,19 @@
 docker-compose up -d
 ```
 6. Levantar: ```yarn start:dev```
+
+
+## Características
+
+- NestJS
+- TypeORM
+- PostgreSQL
+- CRUD completo
+- DTOs
+- Validaciones con class-validator
+- Paginación
+- Búsquedas y filtros
+- Relaciones entre entidades
+- Constraints de base de datos
+- Decoradores de TypeORM
+- Hooks BeforeInsert y BeforeUpdate
